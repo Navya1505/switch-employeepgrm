@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\bin\Debug\netcoreapp3.1\switchpgrm.exe
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\bin\Debug\netcoreapp3.1\switchpgrm.deps.json
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\bin\Debug\netcoreapp3.1\switchpgrm.runtimeconfig.json
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\bin\Debug\netcoreapp3.1\switchpgrm.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\bin\Debug\netcoreapp3.1\switchpgrm.dll
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\bin\Debug\netcoreapp3.1\switchpgrm.pdb
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\obj\Debug\netcoreapp3.1\switchpgrm.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\obj\Debug\netcoreapp3.1\switchpgrm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\obj\Debug\netcoreapp3.1\switchpgrm.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\obj\Debug\netcoreapp3.1\switchpgrm.AssemblyInfo.cs
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\obj\Debug\netcoreapp3.1\switchpgrm.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\obj\Debug\netcoreapp3.1\switchpgrm.dll
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\obj\Debug\netcoreapp3.1\switchpgrm.pdb
+C:\Users\geeth\source\repos\switch employee pgrm\switchpgrm\obj\Debug\netcoreapp3.1\switchpgrm.genruntimeconfig.cache
